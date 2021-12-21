@@ -1,0 +1,16 @@
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.exe
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.deps.json
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.runtimeconfig.json
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.runtimeconfig.dev.json
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.dll
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\ref\projetoong.dll
+C:\Users\Lays\source\repos\projetoong\projetoong\bin\Debug\net5.0\projetoong.pdb
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.AssemblyInfoInputs.cache
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.AssemblyInfo.cs
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.csproj.CoreCompileInputs.cache
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.dll
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\ref\projetoong.dll
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.pdb
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.genruntimeconfig.cache
+C:\Users\Lays\source\repos\projetoong\projetoong\obj\Debug\net5.0\projetoong.csproj.AssemblyReference.cache
